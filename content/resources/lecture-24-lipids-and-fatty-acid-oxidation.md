@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Lipids and Fatty Acid Oxidation'
 uid: 453ba008-948a-e0ec-aa4a-b34d4508cad8
 video_files:
   archive_url: https://archive.org/download/MIT7.05S20/MIT7_05S20_lec24_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-05-general-biochemistry-spring-2020/5c9254448bcb5215acddcc6f06e701ec_t0eXy4RKEys.vtt
+  video_captions_file: /courses/7-05-general-biochemistry-spring-2020/5c9254448bcb5215acddcc6f06e701ec_t0eXy4RKEys.vtt
   video_thumbnail_file: https://img.youtube.com/vi/t0eXy4RKEys/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-05-general-biochemistry-spring-2020/6d65bcff167dc1227d66e4d3d4affdde_t0eXy4RKEys.pdf
+  video_transcript_file: /courses/7-05-general-biochemistry-spring-2020/6d65bcff167dc1227d66e4d3d4affdde_t0eXy4RKEys.pdf
 video_metadata:
   youtube_id: t0eXy4RKEys
 ---

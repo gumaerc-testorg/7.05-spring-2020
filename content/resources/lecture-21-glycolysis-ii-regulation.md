@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Glycolysis II/Regulation'
 uid: 7486c600-bdd7-4b90-5c23-ab6bf211fa23
 video_files:
   archive_url: https://archive.org/download/MIT7.05S20/MIT7_05S20_lec21_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-05-general-biochemistry-spring-2020/063bf5cabebf56beabb332bea8043041_Z2ScgFh81Dc.vtt
+  video_captions_file: /courses/7-05-general-biochemistry-spring-2020/063bf5cabebf56beabb332bea8043041_Z2ScgFh81Dc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Z2ScgFh81Dc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/7-05-general-biochemistry-spring-2020/8464d7d289e84b7cbd54aede8a5c47dd_Z2ScgFh81Dc.pdf
+  video_transcript_file: /courses/7-05-general-biochemistry-spring-2020/8464d7d289e84b7cbd54aede8a5c47dd_Z2ScgFh81Dc.pdf
 video_metadata:
   youtube_id: Z2ScgFh81Dc
 ---

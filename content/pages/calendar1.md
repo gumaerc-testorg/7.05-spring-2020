@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar1
 uid: 01eef542-2d48-96a7-0b8d-8790bfb7c311
 ---
@@ -497,7 +499,7 @@ Photosynthesis I
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Photosynthesis II/CO2 Assimilation
+Photosynthesis II/CO{{< sub "2" >}} Assimilation
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿MVH﻿
