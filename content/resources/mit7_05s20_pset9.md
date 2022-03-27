@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 77e16b30-ef10-63bb-0363-e9a828131cab
 resourcetype: Document
 title: 7.05 S20 Problem Set 9
 uid: aa8c5f62-ca38-75e7-d574-a7772bb194ae

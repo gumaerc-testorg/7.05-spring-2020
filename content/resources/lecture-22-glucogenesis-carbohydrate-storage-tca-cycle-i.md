@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Glucogenesis/Carbohydrate Storage/TCA Cycle I'
 uid: b92d6281-9ce5-9184-e98d-3f4c736c2125
 video_files:
