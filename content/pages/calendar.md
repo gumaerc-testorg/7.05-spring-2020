@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the class topics, instructors for each class, and
+  key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: In this lecture, Professor Vander Heiden introduces oxidative phosphorylation with the analogy of a biological battery and goes on to describe the electron transport chain, ATP synthase, and the role of membrane potential or pH. 
 
 **Instructor**: Prof. Matthew Vander Heiden
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: Professor Vander Heiden introduces nucleic acid metabolism, then describes purine synthesis and uric acid, deoxyribonucleotides, pyrimidine synthesis, and the regulation of nucleic acid metabolism. 
 
 **Instructor**: Prof. Matthew Vander Heiden
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists information about additional textbooks that may be
+  helpful for specific topics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

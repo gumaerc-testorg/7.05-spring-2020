@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: In this session, Professor Vander Heiden moves on to talking about fatty acids, triglycerides and lipids, the carnitine shuttle, fatty acid oxidation, accounting glucose versus fatty acids, and standard reduction potentials. 
 
 **Instructor**: Prof. Matthew Vander Heiden
+
+
+

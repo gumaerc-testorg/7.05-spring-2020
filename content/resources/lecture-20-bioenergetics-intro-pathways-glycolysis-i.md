@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: Professor Vander Heiden starts this class off with highlights from bioenergetics, then goes through the first of two discussions on glycolysis by walking through each step of the pathway. 
 
 **Instructor**: Prof. Matthew Vander Heiden
+
+
+

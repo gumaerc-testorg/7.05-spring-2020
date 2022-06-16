@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section includes videos for Prof. Vander Heiden's class sessions.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

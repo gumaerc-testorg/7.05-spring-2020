@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: After recapping the steps of glycolysis, Professor Vander Heiden explores glycolysis further by evaluating the types and chemistry of the reactions and the regulation of the enzyme kinetics. 
 
 **Instructor**: Prof. Matthew Vander Heiden
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: Professor Vander Heiden dives deeper into the discussion of the TCA cycle and related topics including pyruvate oxidation, TCA cycle reactions, the output of the TCA cycle, anaplerosis, the glyoxylate cycle, and TCA cycle regulation. 
 
 **Instructor**: Prof. Matthew Vander Heiden
+
+
+

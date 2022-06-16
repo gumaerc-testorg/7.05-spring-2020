@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description**: After a quick review of the regulation of glycolysis, Professor Vander Heiden discusses glycogen metabolism, fructose and galactose metabolism, and introduces the tricarboxylic acid cycle (TCA) cycle. 
 
 **Instructor**: Prof. Matthew Vander Heiden
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-05-general-biochemistry-spring-2020/375c76f923717c372574ee2f214d3f68_33w-baH49rA.srt
+file: /courses/7-05-general-biochemistry-spring-2020/375c76f923717c372574ee2f214d3f68_33w-baH49rA.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

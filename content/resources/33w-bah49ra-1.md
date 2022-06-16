@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-05-general-biochemistry-spring-2020/502b0c7597b77bdb541398d7269ee882_33w-baH49rA.pdf
+file: /courses/7-05-general-biochemistry-spring-2020/502b0c7597b77bdb541398d7269ee882_33w-baH49rA.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
