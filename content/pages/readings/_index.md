@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists the readings assigned for each class session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fd276c85-ff09-7509-d180-73c5b68be2f5
 ---
@@ -633,7 +637,7 @@ or
 
 {{< tdclose >}}
 {{< tdopen >}}
-Photosynthesis II/CO2 Assimilation
+Photosynthesis II/CO{{< sub "2" >}} Assimilation
 {{< tdclose >}}
 {{< tdopen >}}
 \[BTGS\] Ch. 12.1–12.5, 18, 19, 20.1–20.2, 22

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section lists information about additional textbooks that may be
+  helpful for specific topics.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: fd276c85-ff09-7509-d180-73c5b68be2f5
 title: Optional Readings
 uid: 54a1f986-08e2-6c60-ff49-b1b9c099afda

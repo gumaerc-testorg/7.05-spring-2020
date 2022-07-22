@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section lists the class topics, instructors for each class, and
+  key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9e86421b-51c9-1180-4043-ed0d0851b8dd
 ---
@@ -601,7 +605,7 @@ Oxidative Phosphorylation/Photosynthesis I
 
 {{< tdclose >}}
 {{< tdopen >}}
-Photosynthesis II/CO2 Assimilation
+Photosynthesis II/CO{{< sub "2" >}} Assimilation
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿MVH﻿

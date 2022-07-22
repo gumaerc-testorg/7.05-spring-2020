@@ -1,9 +1,12 @@
 ---
 content_type: page
-title: Calendar1
+description: This section lists the class topics and key dates
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
+title: Calendar
 uid: 01eef542-2d48-96a7-0b8d-8790bfb7c311
 ---
-
 Instructor key:
 
 \[MBY\] = Prof. Michael B. Yaffe
@@ -497,7 +500,7 @@ Photosynthesis I
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Photosynthesis II/CO2 Assimilation
+Photosynthesis II/CO{{< sub "2" >}} Assimilation
 {{< tdclose >}}
 {{< tdopen >}}
 ﻿MVH﻿
