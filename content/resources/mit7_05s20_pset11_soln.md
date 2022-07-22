@@ -5,6 +5,7 @@ file: /courses/7-05-general-biochemistry-spring-2020/a37226054dd2ecc2c1895557ebe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

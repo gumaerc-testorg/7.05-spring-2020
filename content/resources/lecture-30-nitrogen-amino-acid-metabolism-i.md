@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description**: Professor Vander Heiden introduces nitrogen metabolism, describes the role of glutamate, discusses the transamination reactions and PLP, and goes through the urea cycle.
 
 **Instructor**: Prof. Matthew Vander Heiden
-
-
 

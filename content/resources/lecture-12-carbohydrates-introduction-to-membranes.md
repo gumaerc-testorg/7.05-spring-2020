@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description**: In this pre-COVID-19 pandemic lecture of 2020, Professor Vander Heiden discusses two classes of biomolecules: carbohydrates and lipids including their nomenclature, structures, and properties.
 
 **Instructor**: Prof. Matthew Vander Heiden
-
-
 

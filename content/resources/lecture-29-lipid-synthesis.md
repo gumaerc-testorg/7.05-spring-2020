@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description**: In this session, Professor Vander Heiden describes fatty acid synthesis, fatty acid desaturation, the role of citrate, the regulation of fatty acid synthesis, lipid synthesis, cholesterol/statins, and ketone bodies. 
 
 **Instructor**: Prof. Matthew Vander Heiden
-
-
 

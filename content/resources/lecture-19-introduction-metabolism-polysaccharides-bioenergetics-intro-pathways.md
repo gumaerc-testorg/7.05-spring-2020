@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description**: After shifting to remote learning during March 2020, Professor Vander Heiden continued to teach in the same classroom but with no students in the room. Here, he discusses metabolism, reducing sugars, polysaccharides, and bioenergetics. 
 
 **Instructor**: Prof. Matthew Vander Heiden
-
-
 

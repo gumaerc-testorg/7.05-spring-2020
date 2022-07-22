@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description**: Professor Vander Heiden discusses light reactions versus dark reactions of photosynthesis or carbon assimilation. He goes over the dark reactions of the Calvin cycle with a discussion of RuBisCO and regeneration. 
 
 **Instructor**: Prof. Matthew Vander Heiden
-
-
 

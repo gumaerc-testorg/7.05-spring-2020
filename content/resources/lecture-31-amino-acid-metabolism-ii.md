@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description**: Professor Vander Heiden continues the discussion of amino acid metabolism starting with a review of the urea cycle, then details glucogenic versus ketogenic amino acid breakdown, inborn errors of metabolism, amino acid synthesis, and one-carbon metabolism. 
 
 **Instructor**: Prof. Matthew Vander Heiden
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description**: Professor Vander Heiden continues the discussion of topics related to oxidative phosphorylation including redox shuttles, ATP accounting, and NADPH/glutathione, and then finishes with an overview of photosynthesis. 
 
 **Instructor**: Prof. Matthew Vander Heiden
-
-
 
