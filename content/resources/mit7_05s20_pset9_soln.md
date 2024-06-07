@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-05-general-biochemistry-spring-2020/e88fc563e0c7b7cbe26595b26a90a960_MIT7_05S20_Pset9_soln.pdf
+file_size: 776424
 file_type: application/pdf
 learning_resource_types:
 - Assignments
