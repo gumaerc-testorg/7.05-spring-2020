@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-05-general-biochemistry-spring-2020/82d6922d4d9099debc7e117a50aa5241_Ed0Wg-5YYCk.srt
+file_size: 82033
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
