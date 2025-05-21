@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/7-05-general-biochemistry-spring-2020/6a04bcc4709234d82dd93da2f7452cb6_3fSY92mJwQY.srt
+file: /courses/7-05-general-biochemistry-spring-2020/6a04bcc4709234d82dd93da2f7452cb6_3fSY92mJwQY.srt
 file_size: 83079
 file_type: application/x-subrip
 learning_resource_types: []
