@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/7-05-general-biochemistry-spring-2020/316162fe5debf85269df029e34590e7e_MIT7_05S20_Pset11.pdf
+file: /courses/7-05-general-biochemistry-spring-2020/316162fe5debf85269df029e34590e7e_MIT7_05S20_Pset11.pdf
 file_size: 58225
 file_type: application/pdf
 learning_resource_types:
