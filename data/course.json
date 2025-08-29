@@ -39,7 +39,9 @@
     "website": "7-05-general-biochemistry-spring-2020"
   },
   "course_title": "General Biochemistry",
-  "course_description": "This course focuses on contributions of biochemistry toward an understanding of the structure and functioning of organisms, tissues, and cells. Topics include:\n\n*   Chemistry and functions of constituents of cells and tissues and the chemical and physical-chemical basis for the structures of nucleic acids, proteins, and carbohydrates.\n*   Basic enzymology and biochemical reaction mechanisms involved in macromolecular synthesis and degradation, signaling, transport, and movement.\n*   General metabolism of carbohydrates, fats, and nitrogen-containing materials such as amino acids, proteins, and related compounds.\n\nNOTE: The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as _[7.05x Biochemistry: Biomolecules, Methods, and Mechanisms](https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms?utm_source=mitopenlearning-mit-open-learning&utm_medium=affiliate_partner)_. This OCW website provides content primarily from the second half with Prof. Vander Heiden, which focuses on metabolism.\n",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course focuses on contributions of biochemistry toward an understanding of the structure and functioning of organisms, tissues, and cells. Topics include:\n\n- Chemistry and functions of constituents of cells and tissues and the chemical and physical-chemical basis for the structures of nucleic acids, proteins, and carbohydrates.\n- Basic enzymology and biochemical reaction mechanisms involved in macromolecular synthesis and degradation, signaling, transport, and movement.\n- General metabolism of carbohydrates, fats, and nitrogen-containing materials such as amino acids, proteins, and related compounds.\n\nNOTE: The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as {{% resource_link \"ecc701aa-4694-48fe-bf33-5234fe26ded2\" \"*7.05x Biochemistry: Biomolecules, Methods, and Mechanisms*\" %}}. This OCW website provides content primarily from the second half with Prof. Vander Heiden, which focuses on metabolism.",
   "department_numbers": [
     "7"
   ],
@@ -56,5 +58,6 @@
   ],
   "site_uid": "49b6b514-2931-4e48-a073-f6126216ca94",
   "site_short_id": "7.05-spring-2020",
+  "site_url_path": "courses/7-05-general-biochemistry-spring-2020",
   "title": "Course Metadata"
 }
