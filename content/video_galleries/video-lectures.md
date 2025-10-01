@@ -27,7 +27,7 @@ videos:
   website: 7-05-general-biochemistry-spring-2020
 ---
 
-The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as _[7.05x Biochemistry: Biomolecules, Methods, and Mechanisms](https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms?utm_source=mitopenlearning-mit-open-learning&utm_medium=affiliate_partner)_. The videos below are from the second half of the course with Prof. Vander Heiden, which focuses on metabolism. The exception is Lecture 12, which is in the first half of the course and was taught by Prof. Vander Heiden.
+The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as _{{% resource_link "b7590dd3-35aa-4c62-b6a4-28ce48372cc4" "7.05x Biochemistry: Biomolecules, Methods, and Mechanisms" %}}_. The videos below are from the second half of the course with Prof. Vander Heiden, which focuses on metabolism. The exception is Lecture 12, which is in the first half of the course and was taught by Prof. Vander Heiden.
 
 {{< video-gallery "bff8c71d-05ff-8c83-5859-2f258e0847c2" >}}
 

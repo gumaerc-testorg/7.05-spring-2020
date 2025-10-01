@@ -8,7 +8,7 @@ title: Exams
 uid: 3c7fed7c-e6e6-4024-b8a3-545f1b17ac44
 ---
 
-The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as _[7.05x Biochemistry: Biomolecules, Methods, and Mechanisms](https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms?utm_source=mitopenlearning-mit-open-learning&utm_medium=affiliate_partner)_. The exams below are from the second half with Prof. Vander Heiden, which focuses on metabolism.
+The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as _{{% resource_link "b7590dd3-35aa-4c62-b6a4-28ce48372cc4" "7.05x Biochemistry: Biomolecules, Methods, and Mechanisms" %}}_. The exams below are from the second half with Prof. Vander Heiden, which focuses on metabolism.
 
 {{% resource_link 04d4193e-b5b6-5ac4-3a46-ae718d54e17e "Exam 3 (PDF - 2MB)" %}}
 

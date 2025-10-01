@@ -18,7 +18,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisite
 ------------
 
-One of MIT's [General Institute Requirement (GIR)](https://biology.mit.edu/undergraduate/major-minor-requirements/general-institute-requirement/) Introductory Biology courses:
+One of MIT's {{% resource_link "b4893645-1787-4819-bb6e-2d0508e9271d" "General Institute Requirement (GIR)" %}} Introductory Biology courses:
 
 *   [_7.012 Introduction to Biology_](/courses/7-012-introduction-to-biology-fall-2004),
 *   [_7.013 Introductory Biology_](/courses/7-013-introductory-biology-spring-2018),
@@ -36,7 +36,7 @@ This course focuses on contributions of biochemistry toward an understanding of 
 *   Chemistry and functions of constituents of cells and tissues and the chemical and physical-chemical basis for the structures of nucleic acids, proteins, and carbohydrates.
 *   Basic enzymology and biochemical reaction mechanisms involved in macromolecular synthesis and degradation, signaling, transport, and movement. General metabolism of carbohydrates, fats, and nitrogen-containing materials such as amino acids, proteins, and related compounds.
 
-NOTE: The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as _[7.05x Biochemistry: Biomolecules, Methods, and Mechanisms](https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms?utm_source=mitopenlearning-mit-open-learning&utm_medium=affiliate_partner)_. This OCW website provides content primarily from the second half with Prof. Vander Heiden, which focuses on metabolism.
+NOTE: The first half of this course, taught by Prof. Yaffe, is available on the MITx platform as _{{% resource_link "b7590dd3-35aa-4c62-b6a4-28ce48372cc4" "7.05x Biochemistry: Biomolecules, Methods, and Mechanisms" %}}_. This OCW website provides content primarily from the second half with Prof. Vander Heiden, which focuses on metabolism.
 
 Textbooks
 ---------
@@ -103,4 +103,4 @@ Four exams, including the final, @ 22.5% each
 Schedule Note
 -------------
 
-The last half of the course was conducted online because of the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). As a result, some adjustments were made to the original schedule and requirements.
+The last half of the course was conducted online because of the {{% resource_link "b89f0bfb-c42f-49f4-aa91-119e2a33d85f" "COVID-19 pandemic" %}}. As a result, some adjustments were made to the original schedule and requirements.
