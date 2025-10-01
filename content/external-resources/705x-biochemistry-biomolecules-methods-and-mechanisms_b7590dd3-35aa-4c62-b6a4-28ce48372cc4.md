@@ -1,13 +1,10 @@
 ---
-backup_url: ''
 content_type: external-resource
-external_url: https://mitxonline.mit.edu/courses/course-v1:MITxT+7.05x/
+external_url: https://www.edx.org/course/biochemistry-biomolecules-methods-and-mechanisms?utm_source=mitopenlearning-mit-open-learning&utm_medium=affiliate_partner
 has_external_license_warning: true
-is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: valid
+status: ''
 title: '7.05x Biochemistry: Biomolecules, Methods, and Mechanisms'
-uid: ecc701aa-4694-48fe-bf33-5234fe26ded2
-url_status_code: 200
+uid: b7590dd3-35aa-4c62-b6a4-28ce48372cc4
 wayback_url: ''
 ---
